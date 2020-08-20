@@ -20,7 +20,7 @@ end
 
 def remove_element_from_start_of_array(array)
   x = [1,2,3,4]
-  x.pop(2)
+  x.pop(4)
 end
 
 def retrieve_element_from_index(array, index_number)
