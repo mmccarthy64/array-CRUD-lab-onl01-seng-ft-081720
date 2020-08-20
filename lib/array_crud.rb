@@ -20,6 +20,7 @@ end
 
 def remove_element_from_start_of_array(array)
   x = ["wow",2,3,"arrays!"]
+  x.inspect
   x.pop("arrays!")
 end
 
