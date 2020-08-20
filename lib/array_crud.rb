@@ -36,5 +36,3 @@ end
 def retrieve_last_element_from_array(array)
   
 end
-
-create_an_array
