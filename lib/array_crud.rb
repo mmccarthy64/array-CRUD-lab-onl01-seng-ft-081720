@@ -19,7 +19,7 @@ def remove_element_from_end_of_array(array)
 end
 
 def remove_element_from_start_of_array(array)
-  x = [1,2,3,4]
+  x = ["wow",2,3,"arrays!"]
   x.pop("arrays!")
 end
 
